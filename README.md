@@ -58,8 +58,10 @@ Pre-requisites
 --------------------
 
 --install below dependencies
+
 pip install openai SpeechRecognition pyttsx3 pyaudio psutil
 
  --set API key
+
  On Windows (PowerShell)
 $env:OPENAI_API_KEY="your_openai_api_key"
