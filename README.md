@@ -1,6 +1,6 @@
-==========================
+================================
  # speech-bot-assignment
- ==========================
+ ===============================
 
  Functionalities
  ---------------
@@ -52,3 +52,14 @@ response_accuracies logs successful answers as 1 and failures as 0. Average accu
 
 5.Sentiment Analysis Accuracy:
 sentiment_accuracies logs the success or failure of sentiment analysis based on expected sentiments like "positive" or "negative."
+
+
+Pre-requisites
+--------------------
+
+--install below dependencies
+pip install openai SpeechRecognition pyttsx3 pyaudio psutil
+
+ --set API key
+ On Windows (PowerShell)
+$env:OPENAI_API_KEY="your_openai_api_key"
