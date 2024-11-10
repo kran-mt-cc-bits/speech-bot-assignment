@@ -1,0 +1,36 @@
+{"messages": [{"role": "user", "content": "What is the capital of Andhra Pradesh?"}, {"role": "assistant", "content": "Amaravati"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Arunachal Pradesh?"}, {"role": "assistant", "content": "Itanagar"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Assam?"}, {"role": "assistant", "content": "Dispur"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Bihar?"}, {"role": "assistant", "content": "Patna"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Chhattisgarh?"}, {"role": "assistant", "content": "Raipur"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Goa?"}, {"role": "assistant", "content": "Panaji"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Gujarat?"}, {"role": "assistant", "content": "Gandhinagar"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Haryana?"}, {"role": "assistant", "content": "Chandigarh"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Himachal Pradesh?"}, {"role": "assistant", "content": "Shimla"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Jharkhand?"}, {"role": "assistant", "content": "Ranchi"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Karnataka?"}, {"role": "assistant", "content": "Bengaluru"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Kerala?"}, {"role": "assistant", "content": "Thiruvananthapuram"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Madhya Pradesh?"}, {"role": "assistant", "content": "Bhopal"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Maharashtra?"}, {"role": "assistant", "content": "Mumbai"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Manipur?"}, {"role": "assistant", "content": "Imphal"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Meghalaya?"}, {"role": "assistant", "content": "Shillong"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Mizoram?"}, {"role": "assistant", "content": "Aizawl"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Nagaland?"}, {"role": "assistant", "content": "Kohima"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Odisha?"}, {"role": "assistant", "content": "Bhubaneswar"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Punjab?"}, {"role": "assistant", "content": "Chandigarh"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Rajasthan?"}, {"role": "assistant", "content": "Jaipur"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Sikkim?"}, {"role": "assistant", "content": "Gangtok"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Tamil Nadu?"}, {"role": "assistant", "content": "Chennai"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Telangana?"}, {"role": "assistant", "content": "Hyderabad"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Tripura?"}, {"role": "assistant", "content": "Agartala"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Uttar Pradesh?"}, {"role": "assistant", "content": "Lucknow"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Uttarakhand?"}, {"role": "assistant", "content": "Dehradun"}]}
+{"messages": [{"role": "user", "content": "What is the capital of West Bengal?"}, {"role": "assistant", "content": "Kolkata"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Andaman and Nicobar Islands?"}, {"role": "assistant", "content": "Port Blair"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Chandigarh?"}, {"role": "assistant", "content": "Chandigarh"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Dadra and Nagar Haveli and Daman and Diu?"}, {"role": "assistant", "content": "Daman"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Lakshadweep?"}, {"role": "assistant", "content": "Kavaratti"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Delhi?"}, {"role": "assistant", "content": "New Delhi"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Puducherry?"}, {"role": "assistant", "content": "Puducherry"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Jammu and Kashmir?"}, {"role": "assistant", "content": "Srinagar (Summer), Jammu (Winter)"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Ladakh?"}, {"role": "assistant", "content": "Leh"}]}
